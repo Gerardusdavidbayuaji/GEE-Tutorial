@@ -1,1 +1,1 @@
-# GEE-Tutorial
+Hello everyone, this repository is designed to facilitate learning and development using Google Earth Engine. Google Earth Engine is a powerful cloud platform for spatial analysis and processing of satellite imagery data using Javascript. Here, you will find resources, code samples, and tutorials that will help you master the various capabilities of Earth Engine.
